@@ -1,4 +1,4 @@
-# Analyzing Filtering and Searching Event Log and Syslog Output
+# Analyzing, Filtering, and Searching, Event Log and Syslog Output
 <h3>Objectives</h3>
 
 - Analyze data as part of security monitoring activities
